@@ -1,0 +1,12 @@
+{
+  "name": "qpuzzles-shopify-proxy",
+  "version": "4.0.0",
+  "description": "Auto-refreshing Shopify proxy for QPuzzles",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
