@@ -1,6 +1,6 @@
 {
   "name": "qpuzzles-shopify-proxy",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Auto-refreshing Shopify proxy with persistent database for QPuzzles",
   "main": "server.js",
   "scripts": {
