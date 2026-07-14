@@ -1,10 +1,13 @@
 {
   "name": "qpuzzles-shopify-proxy",
-  "version": "2.0.0",
-  "description": "Auto-refreshing Shopify API proxy for QPuzzles Job Manager",
+  "version": "3.0.0",
+  "description": "Auto-refreshing Shopify proxy with persistent database for QPuzzles",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
+  },
+  "dependencies": {
+    "pg": "^8.11.3"
   },
   "engines": {
     "node": ">=18.0.0"
